@@ -44,6 +44,7 @@ GPIOs depend on your FPGA configuration when you program.
 |HUB75|1|https://www.aliexpress.com/item/1005001958308355.html|21.99|
 |PCBs|5|JLCPCB|$6.85|
 |PCB components|MOQ|LCSC|$27.81|
+
 excluding shipping
 
 For PCB parts, see BOM.csv; it is uploadable to LCSC to get the most up to date info on the parts.
