@@ -30,6 +30,15 @@ This must be properly configured in the FT_PROG software (found [here](https://f
 GPIOs depend on your FPGA configuration when you program.
 
 ## Enclosure
+<img width="667" height="526" alt="image" src="https://github.com/user-attachments/assets/a96bc970-1596-41f8-9f09-fb75b072e822" />
+
+I've essentially decided to make a 277x149x247mm enclosure (slits at the back for some airflow) out of strips of pine, as can be more obviously seen in the below image.
+
+<img width="698" height="421" alt="image" src="https://github.com/user-attachments/assets/99783bec-d980-4b59-a01c-04f83224bb91" />
+
+
+
+
 
 ## BOM
 
