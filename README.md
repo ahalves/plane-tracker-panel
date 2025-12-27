@@ -42,18 +42,20 @@ Required 9mm MDF sheet sizes:
 
 ## BOM
 
-|Item|Qty|Link|Price (GBP)| 
-|---|---|---|---|
-|HP T520 Thin Client|1|https://www.ebay.co.uk/itm/317610752310|6.49|
-|19.5V Laptop Charger|1|https://www.ebay.co.uk/itm/196839302164|9.00|
-|24k resistor|1|https://www.aliexpress.com/item/1005007345052730.html|0.93|
-|270k resistor|1|https://www.aliexpress.com/item/1005007345052730.html|0.94|
-|5V 5A Power Supply|1|https://www.aliexpress.com/item/1005005763465796.html|5.32|
-|SDR|1|https://www.aliexpress.com/item/1005005278826467.html|17.89|
-|HUB75|1|https://www.aliexpress.com/item/1005001958308355.html|21.99|
-|PCBs|5|JLCPCB|$6.85|
-|PCB components|MOQ|LCSC|$27.81|
+|Item|Qty|Link|Price|Shipping|Total|
+|---|---|---|---|---|---|
+|HP T520 Thin Client|1|https://www.ebay.co.uk/itm/317112939970|14.99|10.00|24.99|
+|19.5V Laptop Charger|1|https://www.ebay.co.uk/itm/196839302164|9.00|free|9.00|
+|24k resistor|1|https://www.aliexpress.com/item/1005007345052730.html|0.93|free|0.93|
+|270k resistor|1|https://www.aliexpress.com/item/1005007345052730.html|0.94|free|0.94|
+|5V 5A Power Supply|1|https://www.aliexpress.com/item/1005005763465796.html|5.32|free|5.32|
+|SDR|1|https://www.aliexpress.com/item/1005005278826467.html|17.89|free|17.89|
+|HUB75|1|https://www.aliexpress.com/item/1005001958308355.html|21.99|free|21.99|
+|247x275x9mm MDF|2|https://www.woodsheets.com/mdf-sheet-cut-to-size/?plastic-group=MDF&plastic-type=Standard%20MDF&product-type=Sheet&thickness=9mm&measurement=mm&length=275&width=247|5.67|4.95|10.62|
+|129x257x9mm MDF|4|https://www.woodsheets.com/mdf-sheet-cut-to-size/?plastic-group=MDF&plastic-type=Standard%20MDF&product-type=Sheet&thickness=9mm&measurement=mm&length=257&width=129|6.00|above|6.00|
+|PCBs|5|JLCPCB|$6.85|$3.12|$9.97|
+|PCB components|MOQ|LCSC|$21.93|$6.52|$28.45|
 
-excluding shipping
+**Total:** £97.68 + $38.42 = **$170.44** as of 27 Dec 2025
 
 For PCB parts, see BOM.csv; it is uploadable to LCSC to get the most up to date info on the parts.
