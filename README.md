@@ -34,7 +34,7 @@ GPIOs depend on your FPGA configuration when you program.
 
 I've essentially decided to make a 275x247x147 enclosure out of MDF, as can be more obviously seen in the below image. Holes can be drilled for cables and airflow where needed.
 
-Required MDF sheet sizes:
+Required 9mm MDF sheet sizes:
 - 247x275mm x2
 - 129x257mm x3 (2 cut down by 10mm crosswise)
 - 76x129mm x1 (width can be variable. Instead of ordering a sheet of this size, it ends up being cheaper getting one more of the above.)
