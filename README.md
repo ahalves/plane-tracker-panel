@@ -54,8 +54,8 @@ Required 9mm MDF sheet sizes:
 |247x275x9mm MDF|2|https://www.woodsheets.com/mdf-sheet-cut-to-size/?plastic-group=MDF&plastic-type=Standard%20MDF&product-type=Sheet&thickness=9mm&measurement=mm&length=275&width=247|5.67|4.95|10.62|
 |129x257x9mm MDF|4|https://www.woodsheets.com/mdf-sheet-cut-to-size/?plastic-group=MDF&plastic-type=Standard%20MDF&product-type=Sheet&thickness=9mm&measurement=mm&length=257&width=129|6.00|above|6.00|
 |PCBs|5|JLCPCB|$6.85|$3.12|$9.97|
-|PCB components|MOQ|LCSC|$21.93|$6.52|$28.45|
+|PCB components|MOQ|LCSC|$21.93|$6.52|$28.25|
 
-**Total:** £97.68 + $38.42 = **$170.44** as of 27 Dec 2025
+**Total:** £97.68 + $38.42 = **$170.24** as of 27 Dec 2025
 
 For PCB parts, see BOM.csv; it is uploadable to LCSC to get the most up to date info on the parts.
