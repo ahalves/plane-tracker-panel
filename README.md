@@ -30,14 +30,14 @@ This must be properly configured in the FT_PROG software (found [here](https://f
 GPIOs depend on your FPGA configuration when you program.
 
 ## Enclosure
-<img width="667" height="526" alt="image" src="https://github.com/user-attachments/assets/a96bc970-1596-41f8-9f09-fb75b072e822" />
+<img width="591" height="404" alt="image" src="https://github.com/user-attachments/assets/9b96981a-608c-40d4-88b5-744f22595921" />
 
-I've essentially decided to make a 277x149x247mm enclosure (slits at the back for some airflow) out of strips of pine, as can be more obviously seen in the below image.
+I've essentially decided to make a 275x247x147 enclosure out of MDF, as can be more obviously seen in the below image. Holes can be drilled for cables and airflow where needed.
 
-<img width="698" height="421" alt="image" src="https://github.com/user-attachments/assets/99783bec-d980-4b59-a01c-04f83224bb91" />
-
-
-
+Required MDF sheet sizes:
+- 247x275mm x2
+- 129x257mm x3 (2 cut down by 10mm crosswise)
+- 76x129mm x1 (width can be variable. Instead of ordering a sheet of this size, it ends up being cheaper getting one more of the above.)
 
 
 ## BOM
