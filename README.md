@@ -39,12 +39,17 @@ Required 9mm MDF sheet sizes:
 - 129x257mm x3 (2 cut down by 10mm crosswise)
 - 76x129mm x1 (width can be variable. Instead of ordering a sheet of this size, it ends up being cheaper getting one more of the above.)
 
+<img width="786" height="564" alt="image" src="https://github.com/user-attachments/assets/637df748-d466-4302-b4df-2caaf286976e" />
+
+The box gets glued together with PVA glue as above. The T520 is secured flat, with the square face on the bottom, IO facing inwards for the SDR to fit in the space.
+
+[picture of build here for clarity when done]
 
 ## BOM
 
 |Item|Qty|Link|Price|Shipping|Total|
 |---|---|---|---|---|---|
-|HP T520 Thin Client|1|https://www.ebay.co.uk/itm/317112939970|14.99|10.00|24.99|
+|HP T520 Thin Client|1|https://www.ebay.co.uk/itm/357569483200|26.70|free|26.70|
 |19.5V Laptop Charger|1|https://www.ebay.co.uk/itm/196839302164|9.00|free|9.00|
 |24k resistor|1|https://www.aliexpress.com/item/1005007345052730.html|0.93|free|0.93|
 |270k resistor|1|https://www.aliexpress.com/item/1005007345052730.html|0.94|free|0.94|
@@ -53,7 +58,7 @@ Required 9mm MDF sheet sizes:
 |HUB75|1|https://www.aliexpress.com/item/1005001958308355.html|21.99|free|21.99|
 |247x275x9mm MDF|2|https://www.woodsheets.com/mdf-sheet-cut-to-size/?plastic-group=MDF&plastic-type=Standard%20MDF&product-type=Sheet&thickness=9mm&measurement=mm&length=275&width=247|5.67+VAT|4.95|17.62|
 |129x257x9mm MDF|4|https://www.woodsheets.com/mdf-sheet-cut-to-size/?plastic-group=MDF&plastic-type=Standard%20MDF&product-type=Sheet&thickness=9mm&measurement=mm&length=257&width=129|5.00+VAT|above|total above|
-|PCBs|5|JLCPCB|$6.80|$1.50|$8.30|
+|PCBs|MOQ (5)|JLCPCB|$6.80|$1.50|$8.30|
 |PCB components|MOQ|LCSC|$21.93|$6.52|$28.25|
 
 **Total:** £98.68 + $36.55 = **$169.92** as of 27 Dec 2025
