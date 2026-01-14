@@ -47,20 +47,22 @@ The box gets glued together with PVA glue as above. The T520 is secured flat, wi
 
 ## BOM
 
+> [!NOTE]
+> For PCB parts, see BOM.csv; it is uploadable to LCSC to get the most up to date info on the parts.
+
 |Item|Qty|Link|Price|Shipping|Total|
 |---|---|---|---|---|---|
 |HP T520 Thin Client|1|https://www.ebay.co.uk/itm/357569483200|26.70|free|26.70|
 |19.5V Laptop Charger|1|https://www.ebay.co.uk/itm/196839302164|9.00|free|9.00|
-|24k resistor|1|https://www.aliexpress.com/item/1005007345052730.html|0.93|free|0.93|
-|270k resistor|1|https://www.aliexpress.com/item/1005007345052730.html|0.94|free|0.94|
-|5V 5A Power Supply|1|https://www.aliexpress.com/item/1005005763465796.html|5.32|free|5.32|
-|SDR|1|https://www.aliexpress.com/item/1005005278826467.html|17.89|free|17.89|
-|HUB75|1|https://www.aliexpress.com/item/1005001958308355.html|21.99|free|21.99|
+|24k resistor|1|https://www.aliexpress.com/item/1005007345052730.html|0.93|1.99|2.92|
+|270k resistor|1|https://www.aliexpress.com/item/1005007345052730.html|0.95|above|0.95|
+|5V 5A Power Supply|1|https://www.aliexpress.com/item/1005005763465796.html|5.39|free|5.39|
+|SDR|1|https://www.aliexpress.com/item/1005005278826467.html|15.59|free|15.59|
+|HUB75|1|https://www.aliexpress.com/item/1005001958308355.html|25.69|free|25.69|
 |247x275x9mm MDF|2|https://www.woodsheets.com/mdf-sheet-cut-to-size/?plastic-group=MDF&plastic-type=Standard%20MDF&product-type=Sheet&thickness=9mm&measurement=mm&length=275&width=247|5.67+VAT|4.95|17.62|
 |129x257x9mm MDF|4|https://www.woodsheets.com/mdf-sheet-cut-to-size/?plastic-group=MDF&plastic-type=Standard%20MDF&product-type=Sheet&thickness=9mm&measurement=mm&length=257&width=129|5.00+VAT|above|total above|
-|PCBs|MOQ (5)|JLCPCB|$6.80|$1.50|$8.30|
-|PCB components|MOQ|LCSC|$21.93|$6.52|$28.25|
+|PCBs|MOQ (5)|JLCPCB|$6.90|$1.50|$8.40|
+|PCB components|MOQ|LCSC|$34.17 (-$5.23 discount)|$6.85|$35.79|
 
-**Total:** £98.68 + $36.55 = **$169.92** as of 27 Dec 2025
+**Total:** £100.39 + $44.19 = **$179.06** as of 27 Dec 2025
 
-For PCB parts, see BOM.csv; it is uploadable to LCSC to get the most up to date info on the parts.
